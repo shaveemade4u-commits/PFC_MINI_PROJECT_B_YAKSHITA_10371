@@ -1,9 +1,9 @@
-#Bitwise Utility Tool (PFC Mini Project)
+Bitwise Utility Tool (PFC Mini Project)
 
-##Description
+Description :
 This is a menu-driven C program that performs basic bitwise operations on integers using switch-case.
 
-##Bitwise Operations Used
+Bitwise Operations Used
 - AND (&)
 - OR (|)
 - XOR (^)
