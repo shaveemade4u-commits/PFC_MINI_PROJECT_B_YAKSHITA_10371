@@ -103,8 +103,8 @@ Result: 14
 5. Right Shift (>>)
 6. Exit
 Enter your choice: 4
-Enter number and shift value: 4 5
-Result: 128
+Enter number and shift value: 4 2
+Result: 16
 
 --- Bitwise Utility Tool ---
 1. AND (&)
@@ -114,8 +114,8 @@ Result: 128
 5. Right Shift (>>)
 6. Exit
 Enter your choice: 5
-Enter number and shift value: 3 5
-Result: 0
+Enter number and shift value: 8 3
+Result: 1
 
 --- Bitwise Utility Tool ---
 1. AND (&)
